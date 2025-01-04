@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hello, my name is Tais, I'm 22 years old, and I'm currently learning Python, focusing on libraries like Pandas, Numpy, and Matplotlib. I'm also exploring PostgreSQL and learning about ETL (Extract, Transform, Load) processes. I'm excited to expand my knowledge in these areas and apply what I'm learning to practical projects! 😊
+(Olá, meu nome é Tais, tenho 22 anos e atualmente estou aprendendo Python, com foco em bibliotecas como Pandas, Numpy e Matplotlib. Também estou explorando PostgreSQL e aprendendo sobre processos ETL (Extract, Transform, Load). Estou animada para expandir meu conhecimento nessas áreas e aplicar o que estou aprendendo em projetos práticos! 😊)
 
 
 ## 🌐 Socials:
