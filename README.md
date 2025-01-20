@@ -12,15 +12,10 @@ Hello, my name is Tais, I'm 22 years old, and I'm currently learning Python, foc
 ![](https://github-readme-streak-stats.herokuapp.com/?user=taismoreira2023&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=taismoreira2023&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<b> ⚡ Principais Repositórios</b>:
-
+# ⚡ Principais Repositórios:
 <a href="https://github.com/taismoreira2023/projetos_data_science">
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=taismoreira2023&repo=projetos_data_science&theme=dark" />
 </a>
 
-<b> ⚡ Principais Repositórios</b>:
 
-<a href="https://github.com/taismoreira2023/projetos_data_science/tree/main/projeto_Mercado_imobiliario_sp">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=taismoreira2023&repo=projetos_data_science&theme=dark" />
-</a>
 
