@@ -22,3 +22,9 @@ Meu objetivo é conquistar uma vaga de estágio para desenvolver habilidades rel
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=taismoreira2023&repo=logicaDeProgramacao&theme=dark" />
 </a>
 
+
+<a href="https://github.com/taismoreira2023/engenharia-de-dados.git">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=taismoreira2023&repo=engenharia-de-dados&theme=dark" />
+</a>
+
+
