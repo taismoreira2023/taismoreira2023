@@ -1,7 +1,6 @@
 # 💫 About Me:
 Olá, meu nome é Tais, tenho 22 anos e sou Estudante de Ciência da Computação com previsão de formatura em 2027.1, interessada em ingressar na área de Dados. Possuo conhecimentos em lógica de programação, Python, MySQL e ferramentas do pacote Office. Tenho experiência em resolução de problemas, comunicação eficaz e trabalho em equipe, sempre com foco no aprendizado contínuo e na contribuição para o sucesso dos projetos. 
 
-Meu objetivo é conquistar uma vaga de estágio para desenvolver habilidades relevantes à carreira, expandir minha rede de contatos e aprofundar meu conhecimento na realidade da área de formação.
 
 
 ## 🌐 Socials:
