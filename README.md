@@ -26,4 +26,8 @@ Olá, meu nome é Tais, tenho 22 anos e sou Estudante de Ciência da Computaçã
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=taismoreira2023&repo=engenharia-de-dados&theme=dark" />
 </a>
 
+<a href="https://github.com/taismoreira2023/Mysql-praticas/tree/main">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=taismoreira2023&repo=Mysql-praticas&theme=dark" />
+</a>
+
 
