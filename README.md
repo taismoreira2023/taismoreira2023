@@ -1,6 +1,6 @@
 # 💫 About Me:
 Olá! Me chamo Taís Moreira e sou apaixonada por Data Science, Machine Learning e Inteligência Artificial Generativa.
-Atualmente estou desenvolvendo projetos envolvendo NLP, Transformers, LLMs, APIs de IA e análise de dados, explorando desde limpeza e preparação de bases até modelagem, fine-tuning e deploy de soluções inteligentes.
+Atualmente estou desenvolvendo projetos envolvendo NLP, Transformers, LLMs, APIs de IA e análise de dados, explorando desde limpeza e preparação de bases até modelagem e fine-tuning.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moreira-tais) 
