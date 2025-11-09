@@ -17,8 +17,8 @@ Olá, meu nome é Tais, tenho 22 anos e sou Estudante de Ciência da Computaçã
   <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=taismoreira2023&repo=projetos_data_science&theme=dark" />
 </a>
 
-<a href="https://github.com/taismoreira2023/logicaDeProgramacao">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=taismoreira2023&repo=logicaDeProgramacao&theme=dark" />
+<a href="https://github.com/taismoreira2023/hate-speech-pt-classifier">
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/pin/?username=taismoreira2023&repo=hate-speech-pt-classifier&theme=dark" />
 </a>
 
 
