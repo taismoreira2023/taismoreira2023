@@ -1,7 +1,6 @@
 # 💫 About Me:
-Olá, meu nome é Tais, tenho 22 anos e sou Estudante de Ciência da Computação com previsão de formatura em 2027.1, interessada em ingressar na área de Dados. Possuo conhecimentos em lógica de programação, Python, MySQL e ferramentas do pacote Office. Tenho experiência em resolução de problemas, comunicação eficaz e trabalho em equipe, sempre com foco no aprendizado contínuo e na contribuição para o sucesso dos projetos. 
-
-
+Olá! Me chamo Taís Moreira e sou apaixonada por Data Science, Machine Learning e Inteligência Artificial Generativa.
+Atualmente estou desenvolvendo projetos envolvendo NLP, Transformers, LLMs, APIs de IA e análise de dados, explorando desde limpeza e preparação de bases até modelagem, fine-tuning e deploy de soluções inteligentes.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/moreira-tais) 
